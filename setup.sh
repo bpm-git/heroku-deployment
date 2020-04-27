@@ -1,1 +1,1 @@
-export DATABASE_URL='postgres://localhost:5432/heroku'
+export DATABASE_URL='postgres://bhitblrouzhoay:925d494d7a8fa7216f7033139e8d981db83d2a74f49f3cf27d2c583157824996@ec2-184-72-236-57.compute-1.amazonaws.com:5432/d49oi6kcvvu30f'
