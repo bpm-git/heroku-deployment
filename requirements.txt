@@ -1,6 +1,6 @@
 alembic
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Migrate
 flask-script
 Flask-SQLAlchemy==2.4.1
